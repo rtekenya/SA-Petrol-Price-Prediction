@@ -1,0 +1,5 @@
+# There are two very similar code for webscrapping
+Both used for scrapping the prices of petrol from the website
+The 2nd code is the one to use from the 2013 onwards. The one thing to change is the path of table as all of them has a different path of tables. However,
+in the future i will try to work a way top ileterate them so i can get the combined prices of all the tables at once . Each year was presented by a different
+table path
